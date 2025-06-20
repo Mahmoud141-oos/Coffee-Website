@@ -1,5 +1,5 @@
 import Logo from "./coffee-logo.png"
-import Image_hero from "./Coffee-hero-section.png"
+import Image_hero from "./coffee-hero-section.png"
 import hot_beverages from "./hot-beverages.png"
 import cold_beverages from "./cold-beverages.png"
 import refreshment from "./refreshment.png"
